@@ -1,0 +1,28 @@
+Year,Movie,Bond,Director,Composer,Writer,Cinematographer,US_Gross,Film_Length,Kills_Bond,Kills_Others,Watched
+1962,Dr. No,Sean Connery,#SPILL!,Monty Norman,"Richard Maibaum, Johanna Harwood & Berkely Mather",Ted Moore,16067035,110,4,8,Yes
+1963,From Russia with Love,Sean Connery,,John Barry,Richard Maibaum & Johanna Harwood,Ted Moore,24800000,115,11,16,No
+1964,Goldfinger,Sean Connery,,John Barry,Richard Maibaum & Paul Dehn,Ted Moore,51100000,110,9,68,Yes
+1965,Thunderball,Sean Connery,,John Barry,Richard Maibaum & John Hopkins,Ted Moore,63600000,130,20,90,No
+1967,You Only Live Twice,SEAN CONNERY,,John Barry,Roald Dahl,Frdie Young,43100000,117,21,175,No
+1969,On Her Majesty's Secret Service,GEORGE LAZENBY,,John Barry,Richard Maibaum,Michael Reed,22800000,142,5,37,No
+1971,Diamonds Are Forever,SEAN CONNERY,,John Barry,Richard Maibaum & Tom Mankiewicz,Td Moore,43800000,120,7,42,No
+1973,Live and Let Die,ROGER MOORE,,George Martin,Tom Mankiewicz,Ted Moore,35400000,121,,5,Yes
+1974,The Man with the Golden Gun,ROGER MOORE,,John Barry,Richard Maibaum & Tom Mankiewicz,Ted Moore,21000000,125,1,5,Yes
+1977,The Spy Who Loved Me,Roger Moore,,Marvin Hamlisch,Christopher Wood & Richard Maibaum,Claude Renoir,46800000,125,31,116,No
+1979,Moonraker,Roger Moore,,John Barry,Christopher Wood,Jean Tournier,70300000,126,12,69,Yes
+1981,For Your Eyes Only,Roger Moore,,Bill Conti,Michael G. Wilson & Richard Maibaum,Alan Hume,54800000,127,,36,Yes
+1983,Octopussy,Roger Moore,,John Barry,"George MacDonald Fraser, Michael G. Wilson & Richard Maibaum",Alan Hume,67900000,131,15,43,Yes
+1985,A View to a Kill,Roger Moore,,John Barry,Michael G. Wilson & Richard Maibaum,Alan Hume,50327960,131,5,57,No
+1987,The Living Daylights,Timothy Dalton,,John Barry,Michael G. Wilson & Richard Maibaum,Alec Mills,51185000,130,13,29,Yes
+1989,License to Kill,timothy dalton,,Michael Kamen,Michael G. Wilson & Richard Maibaum,Alec Mills,34667015,133,,13,Yes
+1995,GoldenEye,pierce brosnan,,Aric Serra,"Michael France, Jeffrey Caine, Kevin Wade & Bruce Feirstein",Phil Meheux,106429941,130,47,25,No
+1997,Tomorrow Never Dies,pierce brosnan,,David Arnold,Bruce Feirstein,Robert Elswit,125304276,119,30,24,Yes
+1999,The World Is Not Enough,Pierce Brosnan,,David Arnold,"Neal Purvis, Robert Wade & Bruce Feirstein",Adrian Biddle,126930660,128,27,43,No
+2002,Die Another Day,Pierce Brosnan,,David Arnold,Neal Purvis and Robert Wade,David Tattersall,160942139,133,,20,No
+2006,Casino Royale,Daniel Craig,,David Arnold,"Neal Purvis, Robert Wade & Paul Haggis",Phil Meheux,167365000,144,11,11,No
+2008,Quantum of Solace,Daniel Craig,,David Arnold,Paul Haggis and Neal Purvis and Robert Wade,Roberto Schaefer,169368427,106,16,15,No
+2012,Skyfall,Daniel Craig,,Thomas Newman,"Neal Purvis, Robert Wade & John Logan",Roger Deakins,304360277,143,26,26,No
+2015,Spectre,Daniel Craig,,Thomas Newman,"John Logan & Neal Purvis, Robert Wade & Jez Butterworth",Hoyte van Hoytema,200074175,148,30,205,Yes
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
